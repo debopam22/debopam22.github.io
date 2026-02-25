@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: "landing_page"
-image: "/images/new_photo.jpg"
+image: "/images/photo.jpg"
 ---
 
 
