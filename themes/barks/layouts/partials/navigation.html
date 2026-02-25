@@ -1,0 +1,17 @@
+{{ if not (eq .Site.Params.navigation.show_navigation false) }}
+<nav>
+  <ul>
+    {{ $current := . }}
+    {{ range $current.Site.Menus.main }}
+      {{ $isActive := eq .Name $current.Title }}
+      <li{{ if $isActive }} class="active"{{ end }}>
+        <strong>
+          <a href="{{ .URL }}" {{ with .Params.target }}target="{{ . }}"{{ end }}>
+            {{ .Name }}
+          </a>
+        </strong>
+      </li>
+    {{ end }}
+  </ul>
+</nav>
+{{ end }}

@@ -1,0 +1,15 @@
+{{ define "main" }}
+  {{ if not .Params.hide_title }}
+    <h1>{{ .Title | safeHTML }}</h1>
+  {{ end }}
+
+  {{ .Content }}
+
+  {{ with .Data.Pages }}
+    <ul>
+      {{ range . }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+  {{ end }}
+{{ end }}
