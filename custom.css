@@ -1,0 +1,231 @@
+h3, h4, h5, h6 {
+    text-align: left;
+  }
+
+/* Remove leftover space where the page title used to be */
+/* Hide page titles when front matter has hide_title = true */
+.page-title,
+h1.page-title {
+  display: none !important;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+  }
+
+main a,
+.content a,
+.post a {
+  color: #8b0000 !important;
+  text-decoration: none;
+}
+
+
+/* Reduce spacing between paragraphs */
+main p,
+.content p,
+.post p {
+  margin-top: 0.6em;     /* default is around 1em */
+  margin-bottom: 0.6em;
+  line-height: 1.2;      /* tighter line spacing */
+}
+
+
+/* Hide the theme’s page title + its spacing when hide_title is true */
+.hide-title h1.page-title,
+.hide-title header.page-header {
+  display: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Optional: tighten top spacing if your theme leaves a gap */
+.hide-title main {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+[data-hide-title="true"] h1.page-title,
+h1.page-title:has(+ [data-hide-title="true"]) {
+  display: none !important;
+}
+
+h2 {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;  
+}
+
+
+
+h3 {
+  margin-top: 1.1rem;     /* reduce space above h3 */
+}
+
+/* Layout for contact info */
+.contact-container {
+  display: flex;
+  justify-content: center;   /* centers the two columns as a group */
+  align-items: flex-start;
+  gap: 3rem;                 /* space between Email and Office */
+  flex-wrap: wrap;
+  margin: 2rem auto;
+  max-width: 900px;          /* limits total width for a centered look */
+  padding: 0 4rem;           /* adds some inner side padding */
+}
+
+.contact-item {
+  flex: 1 1 45%; /* roughly half width */
+}
+
+.contact-icon {
+  color: #8b0000; /*  TAMU maroon */
+  font-size: 0.86em;
+  margin-right: 0.3rem;
+  transform: translateY(8.5px); /* 👈 nudge down slightly */
+}
+
+.contact-item h3 {
+  display: inline-block;
+  font-weight: 700;
+  margin-bottom: 0.2rem;
+  vertical-align: middle;
+}
+
+.contact-item p {
+  margin-top: 0.5rem;
+  line-height: 1.5;
+}
+
+/* Responsive stacking for mobile */
+@media (max-width: 700px) {
+  .contact-container {
+    flex-direction: column;
+  }
+  .contact-item {
+    flex: 1 1 100%;
+  }
+}
+
+/* Make navigation menu font smaller and balanced */
+.navbar a,
+nav a,
+.menu a {
+  font-size: 1.4rem;    /* smaller size */
+  letter-spacing: 0.4px; /* optional: adds nice spacing */
+}
+
+/* Make the existing navigation dots smaller and better aligned */
+nav ul li::before,
+nav ul li::after {
+  font-size: 0.65em;          /* 👈 reduce size (try 0.6–0.8) */
+  vertical-align: middle;    /* keep them centered with text */
+  margin: 0 0.0rem;         /* spacing between text and dot */
+  opacity: 0.85;              /* optional: slightly lighter */
+}
+
+
+.pub-list {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.6rem;
+}
+
+.pub-item {
+  padding-left: 0;
+  border-left: none;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #eee;
+}
+
+.pub-title {
+  margin: 0 0 0.4rem 0;
+  font-size: 1.16rem;
+  line-height: 1.3;
+}
+
+.pub-authors {
+  margin: 0;
+  color: #444;
+  font-size: 1rem;       /* slightly smaller than title */
+  line-height: 1.3;
+}
+
+.pub-venue {
+  margin: 0.35rem 0 0.6rem 0;
+  color: #434242;
+  font-size: 1rem;      /* smaller and lighter */
+}
+
+.pub-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.pub-item:last-child {
+  border-bottom: none;
+}
+
+.pub-tag {
+  display: inline-block;
+  border: 1px solid #8b0000;
+  color: #8b0000;
+  padding: 0.05rem 0.4rem;
+  border-radius: 2px;
+  font-size: 0.8rem;
+  line-height: 1.8;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.pub-tag:hover,
+.pub-tag:focus,
+.pub-tag:active,
+.pub-tag:visited:hover,
+.pub-tag:visited:focus,
+.pub-tag:visited:active {
+  background: #8b0000;
+  color: #fcfbf9 !important;  /* force white text */
+}
+
+.pub-abstract {
+  display: none;
+  margin-top: 0.6rem;
+  padding: 0.6rem 0.75rem;
+  background: #f9f4f4;
+  border-left: 3px solid #8b0000;
+  border-radius: 3px;
+  font-size: 0.96rem;
+  line-height: 1.5;
+}
+
+/* make button-look consistent even though it's a <button> */
+.pub-abstract-toggle {
+  background: transparent;
+  cursor: pointer;
+}
+
+nav ul li a,
+nav ul li a:visited {
+  border-bottom: none;
+  box-shadow: none;
+  text-decoration: none;
+}
+
+/* stays on the active page */
+nav ul li.active a {
+  box-shadow: inset 0 -3px 0 #8b0000;
+  color: #8b0000;
+  padding-bottom: 0px;
+}
+
+/* hover for others */
+nav ul li:not(.active) a:hover {
+  box-shadow: inset 0 -3px 0 #8b0000;
+  color: #8b0000;
+  padding-bottom: -1px;
+}
