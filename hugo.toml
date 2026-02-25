@@ -1,12 +1,12 @@
 # Global options
-baseURL = "http://das-snigdha.github.io/"
+baseURL = "http://debopam22.github.io/"
 canonifyURLs = true
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 languageCode = "en"
 theme = "barks"
-title = "Snigdha Das"
-copyright = "&copy; Copyright 2025 Snigdha Das. Powered by the <a href=\"https://github.com/timothygebhard/barks\" target=\"_blank\" rel=\"noopener\">Barks</a> theme for <a href=\"https://gohugo.io/\" target=\"_blank\" rel=\"noopener\">Hugo</a>."
+title = "Debopam Goswami"
+copyright = "&copy; Copyright 2025 Debopam Goswami. Powered by the <a href=\"https://github.com/timothygebhard/barks\" target=\"_blank\" rel=\"noopener\">Barks</a> theme for <a href=\"https://gohugo.io/\" target=\"_blank\" rel=\"noopener\">Hugo</a>."
 enableRobotsTXT = true
 
 # Main menu
@@ -42,10 +42,10 @@ enableRobotsTXT = true
 [params]
 
     [params.head]
-        author = "Snigdha Das"
+        author = "Debopam Goswami"
         custom_css = "/custom.css"
-        description = "Statistics Ph.D. student at Texas A&M university"
-        keywords = ["statistics", "academic", "PhD"]
+        description = "Graduate Researcher at Mitchell Institute of Fundamental Physics and Astronomy, Texas A&M university"
+        keywords = ["physics", "machine learning", "PhD"]
 
     [params.navigation]
         show_navigation = true
@@ -67,17 +67,17 @@ enableRobotsTXT = true
         [params.social.email]
             name = "E-Mail"
             class = "fas fa-envelope"
-            url = "mailto:snigdha@stat.tamu.edu"
+            url = "mailto:debopam22@tamu.edu"
             weight = 1
         [params.social.github]
             name = "GitHub"
             class = "fab fa-github"
-            url = "https://github.com/das-snigdha"
+            url = "https://github.com/debopam22"
             weight = 2
         [params.social.google_scholar]
             name = "Google Scholar"
             class = "ai ai-google-scholar"
-            url = "https://scholar.google.com/citations?hl=en&authuser=1&user=-Zd0uEMAAAAJ"
+            url = "https://scholar.google.com/citations?user=k5ZqTUwAAAAJ&hl=en"
             weight = 3
         #[params.social.institution]
         #    name = "My institution"
@@ -87,7 +87,7 @@ enableRobotsTXT = true
         [params.social.linkedin]
             name = "LinkedIn"
             class = "fab fa-linkedin"
-            url = "https://www.linkedin.com/in/snigdha-das1812/"
+            url = "https://www.linkedin.com/in/debopam-goswami/"
             weight = 4
         #[params.social.location]
         #    name = "Contact"
