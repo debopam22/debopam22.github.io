@@ -10,7 +10,7 @@ hide_title: true
   <div class="contact-item">
     <i class="fa fa-envelope contact-icon"></i>
     <h3>Email</h3>
-    <p style="font-size: 0.86em;">snigdha@stat.tamu.edu</p>
+    <p style="font-size: 0.86em;">debopam22@tamu.edu</p>
   </div>
 
   <div class="contact-item">
