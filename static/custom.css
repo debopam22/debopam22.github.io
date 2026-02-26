@@ -229,3 +229,17 @@ nav ul li:not(.active) a:hover {
   color: #8b0000;
   padding-bottom: -1px;
 }
+
+/* ===== Enlarge landing page profile image ===== */
+.landing-page img,
+.profile img,
+.avatar img,
+.hero img {
+  max-width: 420px !important;   /* increase this if needed */
+  width: 100%;
+  height: auto;
+}
+
+body {
+  background-color: #f7f3eb;
+}
