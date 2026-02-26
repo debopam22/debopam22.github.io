@@ -167,9 +167,6 @@ hide_title: true
     <p class="pub-authors">
       Bhaskar Dutta, <strong>Debopam Goswami</strong>, Aparajitha Karthikeyan, Vishvas Pandey, Zahra Tabrizi, Richard George Van de Water 
     </p>
-    <p class="pub-venue">
-      <em>Submitted to European Strategy for Particle Physics 2026 Update</em>
-    </p>
     
   </article>
 
