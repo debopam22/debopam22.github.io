@@ -137,7 +137,7 @@ hide_title: true
       <em>Submitted to European Strategy for Particle Physics 2026 Update</em>
     </p>
     <div class="pub-links">
-      <button class="pub-tag pub-abstract-toggle" data-target="abs-swlb">
+      <button class="pub-tag pub-abstract-toggle" data-target="abs-wp">
       Abstract
       </button>
       <a class="pub-tag" href="https://indico.cern.ch/event/1439855/contributions/6461654/">Link</a>
@@ -145,7 +145,7 @@ hide_title: true
   </div>
 
   <!-- hidden abstract -->
-  <div id="abs-swlb" class="pub-abstract">
+  <div id="abs-wp" class="pub-abstract">
     Accelerator-based neutrino experiments, especially those with high-intensity beams and highly capable detectors, offer a powerful and complementary method for probing new physics scenarios. The MiniBooNE experiment at Fermilab pioneered a special Booster Neutrino Beam (BNB) beam dump run and set new limits on sub-GeV dark matter. This white paper explores the physics opportunities enabled by operating the Short-Baseline Near Detector (SBND) at Fermilab in a future BNB beam dump configuration. Redirecting the proton beam away from the default target suppresses neutrino backgrounds, enabling SBND to significantly enhance sensitivity to many new physics scenarios. We evaluate two operational scenarios – off-target mode and a new dedicated beam dump mode – and demonstrate that both approaches can open new avenues in the search for physics beyond the Standard Model. We present two example cases, scalar dark matter and heavy neutral leptons via axion-like particle.
   </div>
     
