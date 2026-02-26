@@ -42,6 +42,26 @@ h3, h4, h5, h6 {
 }
 
 
+
+.awards-section {
+  margin-top: 40px;
+}
+
+.awards-list {
+  font-size: 1.05rem;
+  line-height: 1.6;
+  padding-left: 20px;
+}
+
+.awards-list li {
+  margin-bottom: 22px;
+}
+
+.awards-list strong {
+  font-weight: 600;
+}
+
+
 /* Remove leftover space where the page title used to be */
 /* Hide page titles when front matter has hide_title = true */
 .page-title,
