@@ -19,22 +19,6 @@ hide_title: true
       Bhaskar Dutta, <strong>Debopam Goswami</strong>, Baishan Hu, Wei-Chih Huang, Vishvas Pandey 
     </p>
     <p class="pub-venue">
-      <em>In preparation</em>, 2025+
-    </p>
-    <!-- <div class="pub-links">
-      <a class="pub-tag" href="#">arXiv</a>
-      <a class="pub-tag" href="#">Code</a>
-    </div> -->
-  </article>
-
-  <article class="pub-item">
-    <h3 class="pub-title">
-      Dark Matter-Induced Nuclear De-Excitation at SBND with Ab Initio Nuclear Theory
-    </h3>
-    <p class="pub-authors">
-      Bhaskar Dutta, <strong>Debopam Goswami</strong>, Baishan Hu, Wei-Chih Huang, Vishvas Pandey 
-    </p>
-    <p class="pub-venue">
       <em>Submitted to Physical Review Letters</em>, 2026
     </p>
     <div class="pub-links">
@@ -57,7 +41,7 @@ hide_title: true
       Monophotons from Scalar Portal Dark Matter at Neutrino Experiments
     </h3>
     <p class="pub-authors">
-      Bhaskar Dutta, <strong>Debopam Goswami<\strong>, Aparajitha Karthikeyan
+      Bhaskar Dutta, <strong>Debopam Goswami</strong>, Aparajitha Karthikeyan
     </p>
     <p class="pub-venue">
       <em>Journal of High Energy Physics</em>, 2026
@@ -82,7 +66,7 @@ hide_title: true
       Dirt/Detector/Dump: complementary BSM production at Short-Baseline Neutrino Facilities
     </h3>
     <p class="pub-authors">
-      Bhaskar Dutta, <strong>Debopam Goswami<\strong>, Aparajitha Karthikeyan, Kevin J. Kelly
+      Bhaskar Dutta, <strong>Debopam Goswami</strong>, Aparajitha Karthikeyan, Kevin J. Kelly
     </p>
     <p class="pub-venue">
       <em>Journal of High Energy Physics</em>, 2025
@@ -110,7 +94,7 @@ hide_title: true
       Open Quantum Entanglement: A study of two atomic system in static patch of de Sitter space
     </h3>
     <p class="pub-authors">
-      Samim Akhtar, Sayantan Choudhury, Satyaki Chowdhury, <strong>Debopam Goswami<\strong>, Sudhakar Panda, Abinash Swain
+      Samim Akhtar, Sayantan Choudhury, Satyaki Chowdhury, <strong>Debopam Goswami</strong>, Sudhakar Panda, Abinash Swain
     </p>
     <p class="pub-venue">
       <em>The European Physical Journal C</em>, 2020
