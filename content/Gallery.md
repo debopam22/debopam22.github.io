@@ -49,7 +49,7 @@
   </div>
   <div class="gallery-item">
     <img src="/images/IMG_7629.JPG" alt="Milky Way 1">
-    <p class="caption">Milky Way - Grand Teton National Park 2</p>
+    <p class="caption">Milky Way - Grand Teton National Park 1</p>
   </div>
   <div class="gallery-item">
     <img src="/images/IMG_7626.JPG" alt="Milky Way 2">
@@ -102,5 +102,26 @@
   <div class="gallery-item">
     <img src="/images/IMG_7639.JPG" alt="Yosemite National Park">
     <p class="caption">Yosemite National Park</p>
+  </div>
+</div>
+
+<h2 class="gallery-section-title">Miscellaneous</h2>
+
+<div class="gallery-container">
+  <div class="gallery-item">
+    <img src="/images/IMG_7618.JPG" alt="Bryan Lake">
+    <p class="caption">Bryan Lake</p>
+  </div>
+  <div class="gallery-item">
+    <img src="/images/IMG_7623.JPG" alt="Tiger Nest, Bhutan">
+    <p class="caption">Tiger Nest, Bhutan</p>
+  </div>
+  <div class="gallery-item">
+    <img src="/images/IMG_7642.JPG" alt="New York">
+    <p class="caption">New York</p>
+  </div>
+  <div class="gallery-item">
+    <img src="/images/IMG_7641.JPG" alt="IITK Campus">
+    <p class="caption">IITK Campus</p>
   </div>
 </div>
