@@ -1,23 +1,23 @@
 <div class="gallery-container">
 
   <div class="gallery-item">
-    <img src="/images/gallery/hiking1.jpg" alt="Hiking at Big Bend">
-    <p class="caption">Hiking at Big Bend National Park</p>
+    <img src="/images/IMG_7617.jpg" alt="Sunset photography">
+    <p class="caption">Sunset at Lake Bryan</p>
   </div>
 
   <div class="gallery-item">
-    <img src="/images/gallery/photography1.jpg" alt="Sunset photography">
-    <p class="caption">Golden Hour — College Station</p>
+    <img src="/images/IMG_7630.jpg" alt="Sunset photography">
+    <p class="caption">Golden Hour — Texas A&M University</p>
   </div>
 
   <div class="gallery-item">
-    <img src="/images/gallery/sketch1.jpg" alt="Pencil sketch">
-    <p class="caption">Graphite sketch study</p>
+    <img src="/images/IMG_7461.jpg" alt="Pencil sketch">
+    <p class="caption">Satyajit Ray</p>
   </div>
 
   <div class="gallery-item">
-    <img src="/images/gallery/hiking2.jpg" alt="Mountain trail">
-    <p class="caption">Hill Country trail exploration</p>
+    <img src="/images/IMG_7637.jpg" alt="Pencil sketch">
+    <p class="caption">Richard P. Feynman</p>
   </div>
 
 </div>
