@@ -5,7 +5,7 @@
       <strong>Graduate Student Travel Grant (2024) — Texas A&M University</strong><br>
       Awarded twice for participation in international conferences, recognizing 
       <strong>exceptional academic achievement and research contributions</strong>.
-      <a href="#" target="_blank">[Link]</a>
+      <a href="https://grad.tamu.edu/funding-opportunities-for-graduate-students/graduate-student-travel-awards" target="_blank">[Link]</a>
     </li>
     <li>
       <strong>General Proficiency Medal (2021) — IIT Kanpur</strong><br>
