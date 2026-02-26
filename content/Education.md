@@ -9,8 +9,8 @@
     <p>Activities and Societies: 
       <ul>
       <li><span style="font-size: 0.8em;"><a href="https://getinvolved.tamu.edu/org/badminton-club">Texas A&M Badminton Club</a></span></li>
-      <li><span style="font-size: 0.9em;"><a href="https://www.tamugc.com/">Texas A&M Graduate Consulting Club (TAMUGC)</a></span></li>
-      <li><span style="font-size: 0.9em;"><a href="https://www.igsatamu.com/">Indian Graduate Student Association</a></span></li>
+      <li><span style="font-size: 0.8em;"><a href="https://www.tamugc.com/">Texas A&M Graduate Consulting Club (TAMUGC)</a></span></li>
+      <li><span style="font-size: 0.8em;"><a href="https://www.igsatamu.com/">Indian Graduate Student Association (IGSA)</a></span></li>
       </ul>
     </p>
   </div>
