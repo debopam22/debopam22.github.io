@@ -35,6 +35,12 @@ h3, h4, h5, h6 {
   color: #444;
 }
 
+@media (max-width: 768px) {
+  .gallery-container {
+    grid-template-columns: 1fr;
+  }
+}
+
 
 /* Remove leftover space where the page title used to be */
 /* Hide page titles when front matter has hide_title = true */
