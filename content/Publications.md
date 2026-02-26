@@ -35,7 +35,7 @@ hide_title: true
       Bhaskar Dutta, <strong>Debopam Goswami</strong>, Baishan Hu, Wei-Chih Huang, Vishvas Pandey 
     </p>
     <p class="pub-venue">
-      <em>Submitted</em>, 2026
+      <em>Submitted to Physical Review Letters</em>, 2026
     </p>
     <div class="pub-links">
       <button class="pub-tag pub-abstract-toggle" data-target="abs-swlb">
