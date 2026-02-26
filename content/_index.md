@@ -26,8 +26,6 @@ image: "/images/photo.jpg"
 <li>Computational optimization of simulations</li>
 </ul>
 
-<span style="font-size: 0.9em;">Currently, my work focuses on blazar-boosted DM in neutrino experiments, explanations for the galactic center excess, and the application of machine learning to improve signal discrimination.</span>  
-
 <span style="font-size: 0.9em;">More broadly, I am deeply interested in leveraging artificial intelligence to automate modeling, accelerate simulations, and enhance scientific discovery in particle physics and related quantitative disciplines.</span>  
 
 <span style="font-size: 0.9em;">Outside of research, I am an active member of the Texas A&M Badminton Club. I also enjoy chess, cricket, hiking, photography, and sketching. I maintain a separate gallery showcasing selected hiking photos, photography, and sketches.</span> 
