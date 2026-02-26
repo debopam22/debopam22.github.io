@@ -36,6 +36,8 @@ hide_title: true
     
   </article>
 
+
+
   <article class="pub-item">
     <h3 class="pub-title">
       Monophotons from Scalar Portal Dark Matter at Neutrino Experiments
@@ -60,6 +62,8 @@ hide_title: true
     In this work, we investigate monophoton signatures arising from dark matter via a 2->3 scattering process that is mediated by a virtual scalar and a Standard Model photon. Since the final-state photon carries a large fraction of the initial dark matter's energy, this process offers a compelling handle for probing scalar portal dark matter scenarios. Their distinctive energy, angular, and timing distributions allow for effective separation of signal from neutrino-induced backgrounds. We analyze several models featuring different couplings to the scalar mediator, with the scalar photon coupling serving as the common detection channel. To distinguish between the models, we further examined their distinct spatial distributions. We considered the flux of dark matter produced both at the target and absorber of neutrino facilities such as the BNB, NuMI, and LBNF, and investigated the sensitivities at the ongoing SBND, ICARUS-NuMI, and future DUNE ND detectors. We further investigated the differences in the DM fluxes arising from various production mechanisms, as well as the distinctions between the target and absorber contributions. Our results demonstrate that the sensitivities at the considered experiments, especially DUNE ND, can place significantly improved constraints on viable parameter space in various scenarios.
   </div>
   </article>
+
+
 
   <article class="pub-item">
     <h3 class="pub-title">
@@ -100,7 +104,7 @@ hide_title: true
       <em>The European Physical Journal C</em>, 2020
     </p>
     <div class="pub-links">
-      <button class="pub-tag pub-abstract-toggle" data-target="abs-hdp">
+      <button class="pub-tag pub-abstract-toggle" data-target="abs-quant">
       Abstract
       </button>
       <a class="pub-tag" href="https://link.springer.com/article/10.1140/epjc/s10052-020-8302-2">DOI</a>
@@ -108,7 +112,7 @@ hide_title: true
   </div>
 
   <!-- hidden abstract -->
-  <div id="abs-hdp" class="pub-abstract">
+  <div id="abs-quant" class="pub-abstract">
     In this work, our prime objective is to study non-locality and long-range effects of two-body correlation using quantum entanglement from the various information-theoretic measures in the static patch of de Sitter space using a two-body Open Quantum System (OQS). The OQS is described by a system of two entangled atoms, surrounded by a thermal bath, which is modelled by a massless probe scalar field. Firstly, we partially trace over the bath field and construct the Gorini Kossakowski Sudarshan Lindblad (GSKL) master equation, which describes the time evolution of the reduced subsystem density matrix. This GSKL master equation is characterized by two components, these are-Spin chain interaction Hamiltonian and the Lindbladian. To fix the form of both of them, we compute the Wightman functions for probe massless scalar field. Using this result along with the large time equilibrium behaviour we obtain the analytical solution for reduced density matrix. Further using this solution we evaluate various entanglement measures, namely Von-Neumann entropy, Renyi entropy, logarithmic negativity, entanglement of formation, concurrence and quantum discord for the two atomic subsystems on the static patch of De-Sitter space. Finally, we have studied the violation of Bell-CHSH inequality, which is the key ingredient to study non-locality in primordial cosmology.
   </div>
   </article>
