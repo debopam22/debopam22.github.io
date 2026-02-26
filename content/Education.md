@@ -8,9 +8,9 @@
     <p>Advisor: Prof. Bhaskar Dutta | GPA: 4.0/4.0</p>
     <p>Activities and Societies: 
       <ul>
-      <li><a href="https://getinvolved.tamu.edu/org/badminton-club">Texas A&M Badminton Club</a></li>
-      <li><a href="https://www.tamugc.com/">Texas A&M Graduate Consulting Club (TAMUGC)</a></li>
-      <li><a href="https://www.igsatamu.com/">Indian Graduate Student Association</a></li>
+      <li><span style="font-size: 0.9em;"><a href="https://getinvolved.tamu.edu/org/badminton-club">Texas A&M Badminton Club</a></li></span>
+      <li><span style="font-size: 0.9em;"><a href="https://www.tamugc.com/">Texas A&M Graduate Consulting Club (TAMUGC)</a></li></span>
+      <li><span style="font-size: 0.9em;"><a href="https://www.igsatamu.com/">Indian Graduate Student Association</a></li></span>
       </ul>
     </p>
   </div>
