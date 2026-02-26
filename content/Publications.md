@@ -170,6 +170,26 @@ hide_title: true
     
   </article>
 
+  <article class="pub-item">
+    <h3 class="pub-title">
+      Explanation of Galactic Center GeV Excess via Cosmic Ray-Dark Matter Scattering
+    </h3>
+    <p class="pub-authors">
+      Bhaskar Dutta, <strong>Debopam Goswami</strong>, Jason Kumar, Mudit Rai, Deepak Sathyan, 
+    </p>
+    
+  </article>
+
+  <article class="pub-item">
+    <h3 class="pub-title">
+      Boosted dark matter from single, stacked blazars and cosmic protons
+    </h3>
+    <p class="pub-authors">
+      Christopher Cappiello, P.S. Bhupal Dev, James B. Dent, Bhaskar Dutta, <strong>Debopam Goswami</strong>, Aparajitha Karthikeyan
+    </p>
+    
+  </article>
+
 </div>
 
 
