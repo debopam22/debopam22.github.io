@@ -30,7 +30,7 @@ hide_title: true
 
 (Alphabetically ordered by the first letter of the first name)
 
-<ol>
+
 <ul class="collaborator-list">
   <li>Aparajitha Karthikeyan (Mitchell Institute for Fundamental Physics & Astronomy, Texas A&M University)</li>
   <li>Austin Schneider (Mitchell Institute for Fundamental Physics & Astronomy, Texas A&M University)</li>
@@ -55,7 +55,7 @@ hide_title: true
   <li>Wei-Chih Huang (Mitchell Institute for Fundamental Physics & Astronomy, Texas A&M University)</li>
   <li>Zahra Tabrizi (Theoretical Physics Department, CERN & Department of Physics and Astronomy, University of Pittsburgh)</li>
 </ul>
-</ol>
+
 
 
 
