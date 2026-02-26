@@ -26,7 +26,7 @@
   </ol>
 
   <h2>Conferences & Workshops</h2>
-  <p>(Excluding conferences where I delivered a talk or presentation)</p>
+  <p><span style="font-size: 0.9em;">(Excluding conferences where I delivered a talk or presentation)</span></p>
   <ol class="conference-list">
     <li>
       <strong>The Mitchell Conference on Collider, Dark Matter, & Neutrino Physics</strong>, 
