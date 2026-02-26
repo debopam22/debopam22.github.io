@@ -30,15 +30,15 @@
   <ol class="conference-list">
     <li>
       <strong>The Mitchell Conference on Collider, Dark Matter, & Neutrino Physics</strong>, 
-      <em>Texas A&M University</em> | May 2024
+      <em>Texas A&M University (TAMU)</em> | May 2024
     </li>
     <li>
       <strong>The Mitchell Conference on Collider, Dark Matter, & Neutrino Physics</strong>, 
-      <em>Texas A&M University</em> | May 2023
+      <em>Texas A&M University (TAMU)</em> | May 2023
     </li>
     <li>
       <strong>Physics of the Early Universe</strong> (Online), 
-      <em>The International Centre for Theoretical Sciences</em> | Aug 2020
+      <em>The International Centre for Theoretical Sciences (ICTS)</em> | Aug 2020
     </li>
     <li>
       <strong>XVIII<sup>th</sup> Annual Basic Sciences Summer School</strong>, 
