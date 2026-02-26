@@ -38,20 +38,20 @@ enableRobotsTXT = true
     name = "Awards"
     url  = "/awards"
     weight = 7
-[[menu.main]]
-    name = "CV"
-    url  = "/cv.pdf"
-    weight = 8
-    [menu.main.params]
-    target = "_blank"
+#[[menu.main]]
+#    name = "CV"
+#    url  = "/cv.pdf"
+#    weight = 8
+#    [menu.main.params]
+#    target = "_blank"
 [[menu.main]]
     name = "Gallery"
     url = "/gallery"
-    weight = 9
+    weight = 8
 [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 10
+    weight = 9
 
 [sitemap]
   changefreq = 'daily'
