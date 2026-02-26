@@ -25,9 +25,6 @@ hide_title: true
 
 <span style="font-size: 0.9em;">More broadly, I am deeply interested in leveraging artificial intelligence to automate modeling, accelerate simulations, and enhance scientific discovery in particle physics and related quantitative disciplines.</span>  
 
-<span style="font-size: 0.9em;">Outside of research, I am an active member of the Texas A&M Badminton Club. I also enjoy chess, cricket, hiking, photography, and sketching. I maintain a separate gallery showcasing selected hiking photos, photography, and sketches.</span> 
-
-<span style="font-size: 0.9em;">These pursuits reflect qualities I value in my professional life: strategic thinking, discipline, pattern recognition, and persistence.</span>  
 
 
 
