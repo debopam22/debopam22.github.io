@@ -80,7 +80,27 @@
 
 <div class="gallery-container">
   <div class="gallery-item">
-    <img src="/images/nature1.JPG" alt="Hill Country trail">
-    <p class="caption">Texas Hill Country</p>
+    <img src="/images/IMG_7621.JPG" alt="Bhutan 1">
+    <p class="caption">Bhutan</p>
+  </div>
+  <div class="gallery-item">
+    <img src="/images/IMG_7625.JPG" alt="Grand Teton National Park 1">
+    <p class="caption">Grand Teton National Park 1</p>
+  </div>
+  <div class="gallery-item">
+    <img src="/images/IMG_7627.JPG" alt="Grand Teton National Park 2">
+    <p class="caption">Grand Teton National Park 2</p>
+  </div>
+  <div class="gallery-item">
+    <img src="/images/IMG_7628.JPG" alt="Grand Teton National Park 3">
+    <p class="caption">Grand Teton National Park 3</p>
+  </div>
+  <div class="gallery-item">
+    <img src="/images/IMG_7636.JPG" alt="Garner State Park">
+    <p class="caption">Garner State Park</p>
+  </div>
+  <div class="gallery-item">
+    <img src="/images/IMG_7639.JPG" alt="Yosemite National Park">
+    <p class="caption">Yosemite National Park</p>
   </div>
 </div>
