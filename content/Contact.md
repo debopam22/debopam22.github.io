@@ -17,7 +17,7 @@ hide_title: true
     <i class="fa fa-map-marker-alt contact-icon"></i>
     <h3>Office Location</h3>
     <p style="font-size: 0.86em;">
-     Office #: M215
+     Office #: M215<br>
      Mitchell Institute for Fundamental Physics and Astronomy<br>
      576 University Dr<br>
      College Station, TX 77843, USA<br>
