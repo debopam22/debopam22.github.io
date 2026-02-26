@@ -15,27 +15,43 @@ enableRobotsTXT = true
 #    url  = "/"
 #    weight = 1
 [[menu.main]]
-    name = "Research"
-    url  = "/research"
+    name = "Education"
+    url  = "/education"
     weight = 2
 [[menu.main]]
     name = "Publications"
     url = "/publications"
     weight = 3
 [[menu.main]]
+    name = "Research"
+    url  = "/research"
+    weight = 4
+[[menu.main]]
+    name = "Conferences"
+    url  = "/conferences"
+    weight = 5
+[[menu.main]]
     name = "Teaching"
     url  = "/teaching"
-    weight = 4
+    weight = 6
+[[menu.main]]
+    name = "Awards"
+    url  = "/awards"
+    weight = 7
 [[menu.main]]
     name = "CV"
     url  = "/cv.pdf"
-    weight = 5
+    weight = 8
     [menu.main.params]
     target = "_blank"
 [[menu.main]]
+    name = "Gallery"
+    url = "/gallery"
+    weight = 9
+[[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 6
+    weight = 10
 
 [sitemap]
   changefreq = 'daily'
