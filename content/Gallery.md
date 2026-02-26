@@ -13,6 +13,14 @@
     <img src="/images/IMG_7631.JPG" alt="Golden Hour 2 - Texas A&M University">
     <p class="caption">Golden Hour 2 - Texas A&M University</p>
   </div>
+  <div class="gallery-item">
+    <img src="/images/IMG_7634.JPG" alt="Golden Hour 3 - Texas A&M University">
+    <p class="caption">Golden Hour 3 - Texas A&M University</p>
+  </div>
+  <div class="gallery-item">
+    <img src="/images/IMG_7640.JPG" alt="Valley of Fire">
+    <p class="caption">Olmstead Point - Yosemite National Park</p>
+  </div>
 </div>
 
 
