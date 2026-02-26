@@ -19,6 +19,10 @@ enableRobotsTXT = true
     url  = "/research"
     weight = 2
 [[menu.main]]
+    name = "Publications"
+    url = "/publications"
+    weight = 5
+[[menu.main]]
     name = "Teaching"
     url  = "/teaching"
     weight = 3
