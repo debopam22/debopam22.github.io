@@ -26,6 +26,35 @@ hide_title: true
 <span style="font-size: 0.9em;">More broadly, I am deeply interested in leveraging artificial intelligence to automate modeling, accelerate simulations, and enhance scientific discovery in particle physics and related quantitative disciplines.</span>  
 
 
+<h3>Collaborators</h3>
+
+<ol>
+  <li>Bhaskar Dutta (Mitchell Institute for Fundamental Physics & Astronomy, Texas A&M University)</li>
+  <li>Vishvas Pandey (Neutrino Division of the Fermi National Accelerator Laboratory)</li>
+  <li>Zahra Tabrizi (Theoretical Physics Department, CERN & Department of Physics and Astronomy, University of Pittsburgh)</li>
+  <li>Richard G. V. de Water (Los Alamos National Laboratory)</li>
+  <li>Aparajitha Karthikeyan (Mitchell Institute for Fundamental Physics & Astronomy, Texas A&M University)</li>
+  <li>Baishan Hu (Cyclotron Institute, Texas A&M University)</li>
+  <li>Wei-Chih Huang (Mitchell Institute for Fundamental Physics & Astronomy, Texas A&M University)</li>
+  <li>Kevin J. Kelly (Mitchell Institute for Fundamental Physics & Astronomy, Texas A&M University)</li>
+  <li>Mudit Rai (Mitchell Institute for Fundamental Physics & Astronomy, Texas A&M University)</li>
+  <li>Tao Zhou (Mitchell Institute for Fundamental Physics & Astronomy, Texas A&M University)</li>
+  <li>Deepak Sathyan (Mitchell Institute for Fundamental Physics & Astronomy, Texas A&M University)</li>
+  <li>Austin Schneider (Mitchell Institute for Fundamental Physics & Astronomy, Texas A&M University)</li>
+  <li>Bhupal Dev (Department of Physics, Washington University in St. Louis)</li>
+  <li>James B. Dent (Department of Physics and Astronomy, Sam Houston State University)</li>
+  <li>Christopher Cappiello (Department of Physics, Washington University in St. Louis)</li>
+  <li>Jason Kumar (Department of Physics and Astronomy, University of Hawaii)</li>
+  <li>Sayantan Choudhury (Centre for Cosmology and Science Popularisation, SGT University)</li>
+  <li>Debtosh Chowdhury (Department of Physics, Indian Institute of Technology, Kanpur)</li>
+  <li>Satyaki Chowdhury (Institute of Theoretical Physics, Jagiellonian University)</li>
+  <li>Samim Akhtar (ICTP-SAIFR, Sao Paulo)</li>
+  <li>Sudhakar Panda (School of Physical Sciences, National Institute of Science Education and Research)</li>
+  <li>Abinash Swain (School of Physics, University of the Witwatersrand)</li>
+  <li>Sayantan Sharma (Department of Physics, Institute of Mathematical Sciences)</li>
+</ol>
+
+
 
 
 <script>
