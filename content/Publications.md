@@ -154,6 +154,28 @@ hide_title: true
 </div>
 
 
+
+## Soon to Appear...
+
+
+<div class="pub-list">
+
+  <article class="pub-item">
+    <h3 class="pub-title">
+      Prying Open the Dark Sector Window with SBND Off-Target Mode
+    </h3>
+    <p class="pub-authors">
+      Bhaskar Dutta, <strong>Debopam Goswami</strong>, Aparajitha Karthikeyan, Vishvas Pandey, Zahra Tabrizi, Richard George Van de Water 
+    </p>
+    <p class="pub-venue">
+      <em>Submitted to European Strategy for Particle Physics 2026 Update</em>
+    </p>
+    
+  </article>
+
+</div>
+
+
 <script>
 document.addEventListener("click", function (e) {
   if (e.target.matches(".pub-abstract-toggle")) {
