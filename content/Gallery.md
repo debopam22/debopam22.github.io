@@ -28,8 +28,32 @@
 
 <div class="gallery-container">
   <div class="gallery-item">
-    <img src="/images/astro1.JPG" alt="Milky Way">
-    <p class="caption">Milky Way — Big Bend</p>
+    <img src="/images/IMG_7619.JPG" alt="Total Eclipse">
+    <p class="caption">Total Eclipse</p>
+  </div>
+  <div class="gallery-item">
+    <img src="/images/IMG_7620.JPG" alt="Diamond Ring">
+    <p class="caption">Diamond Ring</p>
+  </div>
+  <div class="gallery-item">
+    <img src="/images/IMG_7632.JPG" alt="Moon Surface 1">
+    <p class="caption">Moon Surface 1</p>
+  </div>
+  <div class="gallery-item">
+    <img src="/images/IMG_7633.JPG" alt="Moon Surface 2">
+    <p class="caption">Moon Surface 2</p>
+  </div>
+  <div class="gallery-item">
+    <img src="/images/IMG_7624.JPG" alt="Moon Surface 3">
+    <p class="caption">Moon Surface 3</p>
+  </div>
+  <div class="gallery-item">
+    <img src="/images/IMG_7629.JPG" alt="Milky Way 1">
+    <p class="caption">Milky Way - Grand Teton National Park 2</p>
+  </div>
+  <div class="gallery-item">
+    <img src="/images/IMG_7626.JPG" alt="Milky Way 2">
+    <p class="caption">Milky Way - Grand Teton National Park 2</p>
   </div>
 </div>
 
@@ -38,8 +62,16 @@
 
 <div class="gallery-container">
   <div class="gallery-item">
-    <img src="/images/sketch1.JPG" alt="Graphite sketch">
-    <p class="caption">Graphite portrait study</p>
+    <img src="/images/IMG_7461.JPG" alt="Satyajit Ray">
+    <p class="caption">Satyajit Ray</p>
+  </div>
+  <div class="gallery-item">
+    <img src="/images/IMG_7637.JPG" alt="Richard P. Feynman">
+    <p class="caption">Richard P. Feynman</p>
+  </div>
+  <div class="gallery-item">
+    <img src="/images/IMG_7638.JPG" alt="Srinivasa Ramanujan">
+    <p class="caption">Srinivasa Ramanujan</p>
   </div>
 </div>
 
