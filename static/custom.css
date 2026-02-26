@@ -10,6 +10,32 @@ h3, h4, h5, h6 {
   font-size: 1.02em;   /* increase size */
 }
 
+.gallery-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+  margin-top: 40px;
+}
+
+.gallery-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  transition: transform 0.3s ease;
+}
+
+.gallery-item img:hover {
+  transform: scale(1.03);
+}
+
+.caption {
+  text-align: center;
+  font-size: 0.95rem;
+  margin-top: 8px;
+  color: #444;
+}
+
+
 /* Remove leftover space where the page title used to be */
 /* Hide page titles when front matter has hide_title = true */
 .page-title,
