@@ -18,7 +18,7 @@
   <div class="education-item">
     <h3>University of Calcutta, India</h3>
     <p><strong>Bachelor of Science (B.Sc.) in Physics</strong> | July 2016 – May 2019</p>
-    <p><strong>First Class with Distinction</strong> | GPA: 4.0/4.0%</p>
+    <p><strong>First Class with Distinction</strong> | GPA: 4.0/4.0</p>
   </div>
 
 </div>
