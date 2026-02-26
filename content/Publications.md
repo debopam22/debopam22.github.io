@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Publications"
 hide_title: true
 ---
 
