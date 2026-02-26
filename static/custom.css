@@ -6,6 +6,10 @@ h3, h4, h5, h6 {
     text-align: left;
   }
 
+.collaborator-list {
+  font-size: 1.0rem;   /* increase size */
+}
+
 /* Remove leftover space where the page title used to be */
 /* Hide page titles when front matter has hide_title = true */
 .page-title,
