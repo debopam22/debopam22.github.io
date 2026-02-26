@@ -28,7 +28,7 @@ hide_title: true
 
 <h3>Collaborators</h3>
 
-(Alphabetically ordered by the first letter of the first name)
+<span style="font-size: 0.9em;">(Alphabetically ordered by the first letter of the first name)</span> 
 
 
 <ul class="collaborator-list">
