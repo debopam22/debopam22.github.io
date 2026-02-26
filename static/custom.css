@@ -1,5 +1,5 @@
-body {
-  background-color: red !important;
+html, body {
+  background-color: #fdfbf7 !important;  /* soft professional cream */
 }
 
 h3, h4, h5, h6 {
@@ -244,6 +244,3 @@ nav ul li:not(.active) a:hover {
   height: auto;
 }
 
-body {
-  background-color: #f7f3eb;
-}
