@@ -82,6 +82,23 @@ h3, h4, h5, h6 {
 }
 
 
+.events-section {
+  margin-top: 40px;
+}
+
+.talks-list,
+.conference-list {
+  margin-left: 1.5rem; /* indent lists */
+  line-height: 1.4;
+  font-size: 1.05rem;
+}
+
+.talks-list li,
+.conference-list li {
+  margin-bottom: 0.9rem;
+}
+
+
 
 /* Remove leftover space where the page title used to be */
 /* Hide page titles when front matter has hide_title = true */
