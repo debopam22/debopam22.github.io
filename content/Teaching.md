@@ -5,7 +5,7 @@ hide_title: true
 
 
 ## Texas A&M University
-### Courses
+### Course Number - Course Name (Semester Taught) Course Description
 
 <span style="font-size: 0.9em;"> <b style="color:#8b0000;"> **PHYS 206 - University Physics: Newtonian Mechanics for Engineering and Science**</b>. (Fall 2024, Spring 2022) Calculus-based introductory Newtonian mechanics; laws of physical motion for the solution of science and engineering problems.</span> 
 
