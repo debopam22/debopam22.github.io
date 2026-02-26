@@ -5,106 +5,30 @@ hide_title: true
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-## Manuscripts &nbsp;&amp;&nbsp;&nbsp;Publications
+<span style="font-size: 0.9em;">With over five years of experience in mathematical modeling, large-scale data analysis, and scientific computing, I combine theoretical insight with modern computational techniques to extract meaningful physics from complex datasets. My work bridges theoretical frameworks and experimental observables, enabling more sensitive searches for new physics.</span>  
 
+<span style="font-size: 0.9em;">My research focuses on sub-GeV dark matter and neutrino phenomenology, spanning both laboratory-based and astrophysical searches.</span> 
 
+<span style="font-size: 0.9em;">I have developed analytical and numerical tools for multi-body scattering processes that improve sensitivity across a range of dark-sector and neutrino experiments. These tools help refine signal predictions and enhance experimental reach in several beyond-Standard-Model scenarios.</span> 
 
-<div class="pub-list">
+<span style="font-size: 0.9em;">In my ongoing work, I apply machine learning techniques for:
 
-  <article class="pub-item">
-    <h3 class="pub-title">
-      Title of the manuscript
-    </h3>
-    <p class="pub-authors">
-      <strong>Debopam Goswami</strong>, authors
-    </p>
-    <p class="pub-venue">
-      <em>In preparation</em>, 2025+
-    </p>
-    <!-- <div class="pub-links">
-      <a class="pub-tag" href="#">arXiv</a>
-      <a class="pub-tag" href="#">Code</a>
-    </div> -->
-  </article>
+<ul style="font-size: 0.9em;">
+<li>Parameter inference</li>
 
-  <article class="pub-item">
-    <h3 class="pub-title">
-      Title of the manuscript
-    </h3>
-    <p class="pub-authors">
-      <strong>Debopam Goswami</strong>, authors
-    </p>
-    <p class="pub-venue">
-      <em>Submitted</em>, 2025+
-    </p>
-    <div class="pub-links">
-      <button class="pub-tag pub-abstract-toggle" data-target="abs-swlb">
-      Abstract
-      </button>
-      <a class="pub-tag" href="https://arxiv.org/abs/2504.11636">arXiv</a>
-      <a class="pub-tag" href="https://github.com/das-snigdha/S-WLB">Code</a>
-      <!-- <a class="pub-tag" href="#">BibTeX</a> -->
-  </div>
+<li>Signal classification</li>
 
-  <!-- hidden abstract -->
-  <div id="abs-swlb" class="pub-abstract">
-    About the manuscript.
-  </div>
-    
-  </article>
+<li>High-dimensional data analysis</li>
 
-  <article class="pub-item">
-    <h3 class="pub-title">
-      Title of the manuscript
-    </h3>
-    <p class="pub-authors">
-      <strong>Debopam Goswami</strong>, authors
-    </p>
-    <p class="pub-venue">
-      <em>Biometrics</em>, 2025
-    </p>
-    <div class="pub-links">
-      <button class="pub-tag pub-abstract-toggle" data-target="abs-msim">
-      Abstract
-      </button>
-      <a class="pub-tag" href="https://doi.org/10.1093/biomtc/ujaf105">DOI</a>
-      <a class="pub-tag" href="https://arxiv.org/abs/2507.09057">arXiv</a>
-      <a class="pub-tag" href="https://github.com/das-snigdha/BayesSPMSM">Code</a>
-      
-  </div>
+<li>Computational optimization of simulations</li>
+</ul>
 
-  <!-- hidden abstract -->
-  <div id="abs-msim" class="pub-abstract">
-    About the manuscript.
-  </div>
-  </article>
+<span style="font-size: 0.9em;">More broadly, I am deeply interested in leveraging artificial intelligence to automate modeling, accelerate simulations, and enhance scientific discovery in particle physics and related quantitative disciplines.</span>  
 
-  <article class="pub-item">
-    <h3 class="pub-title">
-      Title of the manuscript
-    </h3>
-    <p class="pub-authors">
-      <strong>Debopam Goswami</strong>, authors
-    </p>
-    <p class="pub-venue">
-      <em>Journal</em>, 2024
-    </p>
-    <div class="pub-links">
-      <button class="pub-tag pub-abstract-toggle" data-target="abs-hdp">
-      Abstract
-      </button>
-      <a class="pub-tag" href="https://doi.org/10.1080/10618600.2024.2388543">DOI</a>
-      <a class="pub-tag" href="https://arxiv.org/abs/2304.09945">arXiv</a>
-      <a class="pub-tag" href="https://github.com/das-snigdha/blockedHDP">Code</a>
-  </div>
+<span style="font-size: 0.9em;">Outside of research, I am an active member of the Texas A&M Badminton Club. I also enjoy chess, cricket, hiking, photography, and sketching. I maintain a separate gallery showcasing selected hiking photos, photography, and sketches.</span> 
 
-  <!-- hidden abstract -->
-  <div id="abs-hdp" class="pub-abstract">
-    About the manuscript.
-  </div>
-  </article>
+<span style="font-size: 0.9em;">These pursuits reflect qualities I value in my professional life: strategic thinking, discipline, pattern recognition, and persistence.</span>  
 
-</div>
 
 
 <script>
