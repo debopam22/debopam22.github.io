@@ -109,21 +109,6 @@ enableRobotsTXT = true
         #    class = "fas fa-university"
         #    url = ""
         #    weight = 5
-        [params.social.google_scholar]
-            name = "arXiv"
-            class = "ai ai-arxiv"
-            url = "https://arxiv.org/search/?query=Goswami%2C+Debopam&searchtype=author&abstracts=show&order=-announced_date_first&size=50"
-            weight = 5
-        [params.social.google_scholar]
-            name = "ORCiD"
-            class = "ai ai-orcid"
-            url = "https://orcid.org/0000-0002-7027-9305"
-            weight = 6
-        [params.social.google_scholar]
-            name = "iNSPIRE HEP"
-            class = "ai ai-inspire"
-            url = "https://inspirehep.net/authors/2849409?ui-citation-summary=true"
-            weight = 7
         #[params.social.location]
         #    name = "Contact"
         #    class = "fas fa-map-marker-alt"
