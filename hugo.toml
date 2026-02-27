@@ -79,7 +79,7 @@ enableRobotsTXT = true
 
     [params.colors]
         theme_color = "#333333"
-        background_color = "#fcfbf9"
+        background_color = "#f0e1ca"    #"#fcfbf9"
         text_color = "#333333"
         link_color = "#8b0000"
 
@@ -89,26 +89,41 @@ enableRobotsTXT = true
             class = "fas fa-envelope"
             url = "mailto:debopam22@tamu.edu"
             weight = 1
+        [params.social.linkedin]
+            name = "LinkedIn"
+            class = "fab fa-linkedin"
+            url = "https://www.linkedin.com/in/debopam-goswami/"
+            weight = 2
         [params.social.github]
             name = "GitHub"
             class = "fab fa-github"
             url = "https://github.com/debopam22"
-            weight = 2
+            weight = 3
         [params.social.google_scholar]
             name = "Google Scholar"
             class = "ai ai-google-scholar"
             url = "https://scholar.google.com/citations?user=k5ZqTUwAAAAJ&hl=en"
-            weight = 3
+            weight = 4
         #[params.social.institution]
         #    name = "My institution"
         #    class = "fas fa-university"
         #    url = ""
         #    weight = 5
-        [params.social.linkedin]
-            name = "LinkedIn"
-            class = "fab fa-linkedin"
-            url = "https://www.linkedin.com/in/debopam-goswami/"
-            weight = 4
+        [params.social.google_scholar]
+            name = "arXiv"
+            class = "ai ai-arxiv"
+            url = "https://arxiv.org/search/?query=Goswami%2C+Debopam&searchtype=author&abstracts=show&order=-announced_date_first&size=50"
+            weight = 5
+        [params.social.google_scholar]
+            name = "ORCiD"
+            class = "ai ai-orcid"
+            url = "https://orcid.org/0000-0002-7027-9305"
+            weight = 6
+        [params.social.google_scholar]
+            name = "iNSPIRE HEP"
+            class = "ai ai-inspire"
+            url = "https://inspirehep.net/authors/2849409?ui-citation-summary=true"
+            weight = 7
         #[params.social.location]
         #    name = "Contact"
         #    class = "fas fa-map-marker-alt"
