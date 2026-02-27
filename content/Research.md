@@ -32,6 +32,8 @@ hide_title: true
 
 
 <ul class="collaborator-list">
+  <li>Ankur Verma (Department of Physics, University of South Dakota)</li>
+  <li>Anupam Ray (Perimeter Institute & Arthur B. McDonald-Canadian Astroparticle Physics Research Institute)</li>
   <li>Aparajitha Karthikeyan (Mitchell Institute for Fundamental Physics & Astronomy, Texas A&M University)</li>
   <li>Austin Schneider (Mitchell Institute for Fundamental Physics & Astronomy, Texas A&M University)</li>
   <li>Baishan Hu (Cyclotron Institute, Texas A&M University)</li>
@@ -40,10 +42,14 @@ hide_title: true
   <li>Christopher Cappiello (Department of Physics, Washington University in St. Louis)</li>
   <li>Debtosh Chowdhury (Department of Physics, Indian Institute of Technology, Kanpur)</li>
   <li>Deepak Sathyan (Mitchell Institute for Fundamental Physics & Astronomy, Texas A&M University)</li>
+  <li>Doojin Kim (Department of Physics, University of South Dakota)</li>
   <li>James B. Dent (Department of Physics and Astronomy, Sam Houston State University)</li>
   <li>Jason Kumar (Department of Physics and Astronomy, University of Hawaii)</li>
+  <li>Jayden Newstead (School of Physics, University of Melbourn)
   <li>Kevin J. Kelly (Mitchell Institute for Fundamental Physics & Astronomy, Texas A&M University)</li>
+  <li>Louis Strigari (Mitchell Institute for Fundamental Physics & Astronomy, Texas A&M University)</li>
   <li>Mudit Rai (Mitchell Institute for Fundamental Physics & Astronomy, Texas A&M University)</li>
+  <li>Priyanka Verma (Mitchell Institute for Fundamental Physics & Astronomy, Texas A&M University)</li>
   <li>Richard G. V. de Water (Los Alamos National Laboratory)</li>
   <li>Samim Akhtar (ICTP-SAIFR, Sao Paulo)</li>
   <li>Satyaki Chowdhury (Institute of Theoretical Physics, Jagiellonian University)</li>
