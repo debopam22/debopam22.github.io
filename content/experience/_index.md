@@ -1,7 +1,14 @@
 ---
 title: "Experience"
-menu:
-  main:
-    name: "Experience"
-    weight: 3
 ---
+
+## Experiences Overview
+Brief summary here.
+
+---
+
+## Sections
+
+- [Publications](/experience/awards/)
+- [Conferences & Talks](/experience/leadership/)
+- [Projects](/experience/teaching/)
