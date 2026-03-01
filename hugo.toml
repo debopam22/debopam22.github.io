@@ -28,17 +28,17 @@ enableRobotsTXT = true
 
   [[menu.main]]
     name = "Publications"
-    url = "/research/Publications"
+    url = "/research/publications/"
     parent = "Research"
 
   [[menu.main]]
     name = "Conferences"
-    url = "/research/Projects"
+    url = "/research/projects/"
     parent = "Research"
 
   [[menu.main]]
     name = "Projects"
-    url = "/research/Conferences"
+    url = "/research/conferences/"
     parent = "Research"
 
 
