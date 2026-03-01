@@ -9,6 +9,6 @@ Brief summary here.
 
 ## Sections
 
-- [Publications](/experience/awards/)
-- [Conferences & Talks](/experience/leadership/)
-- [Projects](/experience/teaching/)
+- [Awards](/experience/awards/)
+- [Leadership](/experience/leadership/)
+- [Teaching](/experience/teaching/)
