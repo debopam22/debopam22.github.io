@@ -3,5 +3,5 @@ title: "Research"
 menu:
   main:
     name: "Research"
-    weight: 1
+    weight: 2
 ---
