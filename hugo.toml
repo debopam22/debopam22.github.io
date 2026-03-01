@@ -18,7 +18,7 @@ enableRobotsTXT = true
 
   [[menu.main]]
     name = "Education"
-    url = "/education/"
+    url = "/education"
     weight = 1
 
   [[menu.main]]
@@ -28,17 +28,17 @@ enableRobotsTXT = true
 
   [[menu.main]]
     name = "Publications"
-    url = "/research/Publications/"
+    url = "/research/Publications"
     parent = "Research"
 
   [[menu.main]]
     name = "Conferences"
-    url = "/research/Projects/"
+    url = "/research/Projects"
     parent = "Research"
 
   [[menu.main]]
     name = "Projects"
-    url = "/research/Conferences/"
+    url = "/research/Conferences"
     parent = "Research"
 
 
@@ -49,17 +49,17 @@ enableRobotsTXT = true
 
   [[menu.main]]
     name = "Teaching"
-    url = "/experience/Awards/"
+    url = "/experience/Awards"
     parent = "Experience"
 
   [[menu.main]]
     name = "Awards"
-    url = "/experience/Leadership/"
+    url = "/experience/Leadership"
     parent = "Experience"
 
   [[menu.main]]
     name = "Leadership"
-    url = "/experience/Teaching/"
+    url = "/experience/Teaching"
     parent = "Experience"
 
   [[menu.main]]
@@ -69,7 +69,7 @@ enableRobotsTXT = true
 
   [[menu.main]]
     name = "Portfolio"
-    url = "/portfolio/Gallery/"
+    url = "/portfolio/Gallery"
     parent = "Portfolio"
 
 [sitemap]
