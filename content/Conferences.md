@@ -8,20 +8,19 @@
     </li>
     <li>
       <strong>Phenomenology Symposium</strong>, <em>University of Pittsburgh</em> | May 2025<br>
-      Talk: From Neutron Stars to Beam Dumps: 2-to-3 Process with Single Photon Final State. 
-      <a href="https://indico.global/event/812/contributions/126473/" target="_blank">[Link]</a>[Link]
+      Talk: From Neutron Stars to Beam Dumps: 2-to-3 Process with Single Photon Final State. <a href="https://indico.global/event/812/contributions/126473/" target="_blank">[Link]</a>
     </li>
     <li>
       <strong>Particle Physics on the Plains</strong>, <em>University of Kansas</em> | Nov 2024<br>
-      Talk: Signals from Cosmic Boosted Strongly Interacting Dark Matter. [Link]
+      Talk: Signals from Cosmic Boosted Strongly Interacting Dark Matter. <a href="https://indico.global/event/847/contributions/24864/" target="_blank">[Link]</a>
     </li>
     <li>
       <strong>APS DPF-Phenomenology Symposium</strong>, <em>University of Pittsburgh</em> | May 2024<br>
-      Talk: Utilizing the Iron Dump at SBN Facilities to Probe Heavy Neutral Lepton and Dark Matter. [Link]
+      Talk: Utilizing the Iron Dump at SBN Facilities to Probe Heavy Neutral Lepton and Dark Matter. <a href="https://indico.global/event/805/contributions/23451/" target="_blank">[Link]</a>
     </li>
     <li>
       <strong>Seminar Speaker</strong>, <em>IIT Kanpur</em> | Apr 2021<br>
-      Talk: Dark Matter Genesis in the Early Universe.
+      Talk: Dark Matter Genesis in the Early Universe. <a href="https://www.iitk.ac.in/phy/" target="_blank">[Link]</a>
     </li>
   </ol>
 
@@ -30,19 +29,23 @@
   <ol class="conference-list">
     <li>
       <strong>The Mitchell Conference on Collider, Dark Matter, & Neutrino Physics</strong>, 
-      <em>Texas A&M University (TAMU)</em> | May 2024
+      <em>Texas A&M University (TAMU)</em> | May 2025 <a href="https://indico.cern.ch/event/1488822/" target="_blank">[Link]</a>
     </li>
     <li>
       <strong>The Mitchell Conference on Collider, Dark Matter, & Neutrino Physics</strong>, 
-      <em>Texas A&M University (TAMU)</em> | May 2023
+      <em>Texas A&M University (TAMU)</em> | May 2024 <a href="https://indico.cern.ch/event/1378520/" target="_blank">[Link]</a>
+    </li>
+    <li>
+      <strong>The Mitchell Conference on Collider, Dark Matter, & Neutrino Physics</strong>, 
+      <em>Texas A&M University (TAMU)</em> | May 2023 <a href="https://indico.cern.ch/event/1252762/" target="_blank">[Link]</a>
     </li>
     <li>
       <strong>Physics of the Early Universe</strong> (Online), 
-      <em>The International Centre for Theoretical Sciences (ICTS)</em> | Aug 2020
+      <em>The International Centre for Theoretical Sciences (ICTS)</em> | Aug 2020 <a href="https://www.icts.res.in/program/peu" target="_blank">[Link]</a>
     </li>
     <li>
       <strong>XVIII<sup>th</sup> Annual Basic Sciences Summer School</strong>, 
-      <em>Indian Association for the Cultivation of Science (IACS)</em> | May 2016
+      <em>Indian Association for the Cultivation of Science (IACS)</em> | May 2016 <a href="https://www.iacs.res.in/School-of-Physical-Sciences" target="_blank">[Link]</a>
     </li>
   </ol>
 
