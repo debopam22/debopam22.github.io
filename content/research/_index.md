@@ -1,7 +1,6 @@
 ---
 title: "Research"
-menu:
-  main:
-    name: "Research"
-    weight: 2
+main:
+  name: "Research"
+  weight: 2
 ---
