@@ -1,0 +1,133 @@
+# Global options
+baseURL = "http://debopam22.github.io/"
+canonifyURLs = true
+defaultContentLanguage = "en"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+languageCode = "en"
+theme = "barks"
+title = "Debopam Goswami"
+copyright = "&copy; Copyright 2026 Debopam Goswami. Powered by the <a href=\"https://github.com/timothygebhard/barks\" target=\"_blank\" rel=\"noopener\">Barks</a> theme for <a href=\"https://gohugo.io/\" target=\"_blank\" rel=\"noopener\">Hugo</a>."
+enableRobotsTXT = true
+
+# Main menu
+#[[menu.main]]
+#    name = "Home"
+#    url  = "/"
+#    weight = 1
+[[menu.main]]
+    name = "Education"
+    url  = "/education"
+    weight = 2
+[[menu.main]]
+    name = "Publications"
+    url = "/publications"
+    weight = 3
+[[menu.main]]
+    name = "Research"
+    url  = "/research"
+    weight = 4
+[[menu.main]]
+    name = "Conferences"
+    url  = "/conferences"
+    weight = 5
+[[menu.main]]
+    name = "Teaching"
+    url  = "/teaching"
+    weight = 6
+[[menu.main]]
+    name = "Awards"
+    url  = "/awards"
+    weight = 7
+#[[menu.main]]
+#    name = "CV"
+#    url  = "/cv.pdf"
+#    weight = 8
+#    [menu.main.params]
+#    target = "_blank"
+[[menu.main]]
+    name = "Gallery"
+    url = "/gallery"
+    weight = 8
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 9
+
+[sitemap]
+  changefreq = 'daily'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
+# Customization options
+[params]
+
+    [params.head]
+        author = "Debopam Goswami"
+        custom_css = "/custom.css"
+        description = "Graduate Researcher at Mitchell Institute of Fundamental Physics and Astronomy, Texas A&M university"
+        keywords = ["physics", "machine learning", "PhD"]
+
+    [params.navigation]
+        show_navigation = true
+
+    [params.footer]
+        show_footer = true
+
+    [params.typography]
+        title_font = "Bree Serif"
+        body_font = "Source Sans Pro"
+
+    [params.colors]
+        theme_color = "#333333"
+        background_color = "#f0e1ca"    #"#fcfbf9"
+        text_color = "#333333"
+        link_color = "#8b0000"
+
+    [params.social]
+        [params.social.email]
+            name = "E-Mail"
+            class = "fas fa-envelope"
+            url = "mailto:debopam22@tamu.edu"
+            weight = 1
+        [params.social.linkedin]
+            name = "LinkedIn"
+            class = "fab fa-linkedin"
+            url = "https://www.linkedin.com/in/debopam-goswami/"
+            weight = 2
+        [params.social.github]
+            name = "GitHub"
+            class = "fab fa-github"
+            url = "https://github.com/debopam22"
+            weight = 3
+        [params.social.google_scholar]
+            name = "Google Scholar"
+            class = "ai ai-google-scholar"
+            url = "https://scholar.google.com/citations?user=k5ZqTUwAAAAJ&hl=en"
+            weight = 4
+        #[params.social.institution]
+        #    name = "My institution"
+        #    class = "fas fa-university"
+        #    url = ""
+        #    weight = 5
+        #[params.social.location]
+        #    name = "Contact"
+        #    class = "fas fa-map-marker-alt"
+        #    url = "/contact/"
+        #    weight = 5
+        #[params.social.orcid]
+        #    name = "ORCID iD"
+        #    class = "fab fa-orcid"
+        #    url = "https://orcid.org/0000-0002-8862-8649"
+        #    weight = 7
+
+
+# Options for Markdown renderer
+[markup]
+
+    [markup.goldmark.renderer]
+        unsafe = true
+        xHTML = true
+
+    [markup.highlight]
+        style = 'dracula'
+
