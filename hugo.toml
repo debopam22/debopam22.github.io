@@ -14,63 +14,35 @@ enableRobotsTXT = true
 #    name = "Home"
 #    url  = "/"
 #    weight = 1
-[menu]
+[[menu.main]]
+  name = "Education"
+  url = "/education/"
+  weight = 1
 
-  [[menu.main]]
-    name = "Education"
-    url = "/education"
-    weight = 1
+[[menu.main]]
+  name = "Research"
+  url = "/research/"
+  weight = 2
 
-  [[menu.main]]
-    name = "Research"
-    url = "/research/"
-    weight = 2
+[[menu.main]]
+  name = "Experience"
+  url = "/experience/"
+  weight = 3
 
-  [[menu.main]]
-    name = "Publications"
-    url = "/research/publications/"
-    parent = "Research"
+[[menu.main]]
+  name = "Portfolio"
+  url = "/portfolio/"
+  weight = 4
 
-  [[menu.main]]
-    name = "Conferences"
-    url = "/research/projects/"
-    parent = "Research"
+[[menu.main]]
+  name = "Insights"
+  url = "/insights/"
+  weight = 5
 
-  [[menu.main]]
-    name = "Projects"
-    url = "/research/conferences/"
-    parent = "Research"
-
-
-  [[menu.main]]
-    name = "Experience"
-    url = "/experience/"
-    weight = 3
-
-  [[menu.main]]
-    name = "Teaching"
-    url = "/experience/awards/"
-    parent = "Experience"
-
-  [[menu.main]]
-    name = "Awards"
-    url = "/experience/leadership/"
-    parent = "Experience"
-
-  [[menu.main]]
-    name = "Leadership"
-    url = "/experience/teaching/"
-    parent = "Experience"
-
-  [[menu.main]]
-    name = "Portfolio"
-    url = "/portfolio/"
-    weight = 4
-
-  [[menu.main]]
-    name = "Portfolio"
-    url = "/portfolio/gallery/"
-    parent = "Portfolio"
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 6
 
 [sitemap]
   changefreq = 'daily'
