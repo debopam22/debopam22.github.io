@@ -49,17 +49,17 @@ enableRobotsTXT = true
 
   [[menu.main]]
     name = "Teaching"
-    url = "/experience/Awards"
+    url = "/experience/awards/"
     parent = "Experience"
 
   [[menu.main]]
     name = "Awards"
-    url = "/experience/Leadership"
+    url = "/experience/leadership/"
     parent = "Experience"
 
   [[menu.main]]
     name = "Leadership"
-    url = "/experience/Teaching"
+    url = "/experience/teaching/"
     parent = "Experience"
 
   [[menu.main]]
@@ -69,7 +69,7 @@ enableRobotsTXT = true
 
   [[menu.main]]
     name = "Portfolio"
-    url = "/portfolio/Gallery"
+    url = "/portfolio/gallery/"
     parent = "Portfolio"
 
 [sitemap]
