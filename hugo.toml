@@ -14,44 +14,63 @@ enableRobotsTXT = true
 #    name = "Home"
 #    url  = "/"
 #    weight = 1
-[[menu.main]]
+[menu]
+
+  [[menu.main]]
     name = "Education"
-    url  = "/education"
-    weight = 2
-[[menu.main]]
-    name = "Publications"
-    url = "/publications"
-    weight = 3
-[[menu.main]]
+    url = "/education/"
+    weight = 1
+
+  [[menu.main]]
     name = "Research"
-    url  = "/research"
-    weight = 4
-[[menu.main]]
+    url = "/research/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Publications"
+    url = "/research/Publications/"
+    parent = "Research"
+
+  [[menu.main]]
     name = "Conferences"
-    url  = "/conferences"
-    weight = 5
-[[menu.main]]
+    url = "/research/Projects/"
+    parent = "Research"
+
+  [[menu.main]]
+    name = "Projects"
+    url = "/research/Conferences/"
+    parent = "Research"
+
+
+  [[menu.main]]
+    name = "Experience"
+    url = "/experience/"
+    weight = 3
+
+  [[menu.main]]
     name = "Teaching"
-    url  = "/teaching"
-    weight = 6
-[[menu.main]]
+    url = "/experience/Awards/"
+    parent = "Experience"
+
+  [[menu.main]]
     name = "Awards"
-    url  = "/awards"
-    weight = 7
-#[[menu.main]]
-#    name = "CV"
-#    url  = "/cv.pdf"
-#    weight = 8
-#    [menu.main.params]
-#    target = "_blank"
-[[menu.main]]
-    name = "Gallery"
-    url = "/gallery"
-    weight = 8
-[[menu.main]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 9
+    url = "/experience/Leadership/"
+    parent = "Experience"
+
+  [[menu.main]]
+    name = "Leadership"
+    url = "/experience/Teaching/"
+    parent = "Experience"
+
+  [[menu.main]]
+    name = "Portfolio"
+    url = "/portfolio/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Portfolio"
+    url = "/portfolio/Gallery/"
+    parent = "Portfolio"
 
 [sitemap]
   changefreq = 'daily'
