@@ -1,6 +1,14 @@
 ---
 title: "Research"
-main:
-  name: "Research"
-  weight: 2
 ---
+
+## Research Overview
+Brief summary here.
+
+---
+
+## Sections
+
+- [Publications](/research/publications/)
+- [Conferences & Talks](/research/conferences/)
+- [Projects](/research/projects/)
