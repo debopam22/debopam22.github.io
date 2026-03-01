@@ -1,5 +1,5 @@
 # Global options
-baseURL = "http://debopam22.github.io/"
+baseURL = "https://debopam22.github.io/"
 canonifyURLs = true
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy", "taxonomyTerm"]
