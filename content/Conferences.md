@@ -4,12 +4,12 @@
   <ol class="talks-list">
     <li>
       <strong>PROSPECT Experiment</strong> (Online) | Jul 2025<br>
-      Talk: Probes of BSM Models in PROSPECT Experiment.
+      Talk: Probes of BSM Models in PROSPECT Experiment. <a href="https://prospect.yale.edu/" target="_blank">[Link]</a>
     </li>
     <li>
       <strong>Phenomenology Symposium</strong>, <em>University of Pittsburgh</em> | May 2025<br>
       Talk: From Neutron Stars to Beam Dumps: 2-to-3 Process with Single Photon Final State. 
-      [Link]
+      <a href="https://indico.global/event/812/contributions/126473/" target="_blank">[Link]</a>[Link]
     </li>
     <li>
       <strong>Particle Physics on the Plains</strong>, <em>University of Kansas</em> | Nov 2024<br>
