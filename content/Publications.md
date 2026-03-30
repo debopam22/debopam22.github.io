@@ -11,6 +11,33 @@ hide_title: true
 
 <div class="pub-list">
 
+
+  <article class="pub-item">
+    <h3 class="pub-title">
+      Prying Open the Dark Sector Window with SBND Off-Target Mode
+    </h3>
+    <p class="pub-authors">
+      Bhaskar Dutta, <strong>Debopam Goswami</strong>, Aparajitha Karthikeyan, Vishvas Pandey, Zahra Tabrizi, Richard George Van de Water 
+    </p>
+    <div class="pub-links">
+      <button class="pub-tag pub-abstract-toggle" data-target="abs-msim">
+      Abstract
+      </button>
+      <a class="pub-tag" href="https://arxiv.org/abs/2507.07936">arXiv</a>
+      
+  </div>
+
+  <!-- hidden abstract -->
+  <div id="abs-msim" class="pub-abstract">
+    Accelerator-based neutrino experiments with high-intensity proton beams and advanced detector technologies provide a powerful and complementary approach to probing physics beyond the Standard Model. The MiniBooNE experiment at Fermilab pioneered a dedicated Booster Neutrino Beam (BNB) off-target (beam-dump) run, setting leading constraints on sub-GeV dark matter. In this work, we explore the physics opportunities enabled by operating the Short-Baseline Near Detector (SBND) at Fermilab in a future BNB off-target configuration, as well as in a dedicated beam-dump configuration. By redirecting the proton beam away from the nominal beryllium target, or by employing a dedicated beam-dump, neutrino-induced backgrounds are substantially suppressed, thereby enhancing SBND's sensitivity to many new physics scenarios. We demonstrate that such running modes significantly extend the reach for new physics. As representative examples, we present projected sensitivities to light dark matter, axion-like particles, heavy neutral leptons, and meson-portal scenarios.
+  </div>
+  </article>
+
+
+
+
+  
+
   <article class="pub-item">
     <h3 class="pub-title">
       Dark Matter-Induced Nuclear De-Excitation at SBND with Ab Initio Nuclear Theory
@@ -134,7 +161,7 @@ hide_title: true
       Bhaskar Dutta, <strong>Debopam Goswami</strong>, Aparajitha Karthikeyan, Vishvas Pandey, Zahra Tabrizi, Richard George Van de Water 
     </p>
     <p class="pub-venue">
-      <em>Submitted to European Strategy for Particle Physics 2026 Update</em>
+      <em>European Strategy for Particle Physics 2026 Update</em>
     </p>
     <div class="pub-links">
       <button class="pub-tag pub-abstract-toggle" data-target="abs-wp">
@@ -160,15 +187,6 @@ hide_title: true
 
 <div class="pub-list">
 
-  <article class="pub-item">
-    <h3 class="pub-title">
-      Prying Open the Dark Sector Window with SBND Off-Target Mode
-    </h3>
-    <p class="pub-authors">
-      Bhaskar Dutta, <strong>Debopam Goswami</strong>, Aparajitha Karthikeyan, Vishvas Pandey, Zahra Tabrizi, Richard George Van de Water 
-    </p>
-    
-  </article>
 
   <article class="pub-item">
     <h3 class="pub-title">
