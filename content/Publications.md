@@ -23,7 +23,7 @@ hide_title: true
       <button class="pub-tag pub-abstract-toggle" data-target="abs-msim">
       Abstract
       </button>
-      <a class="pub-tag" href="https://arxiv.org/abs/2507.07936">arXiv</a>
+      <a class="pub-tag" href="https://arxiv.org/abs/2603.25818">arXiv</a>
       
   </div>
 
