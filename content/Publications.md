@@ -11,6 +11,27 @@ hide_title: true
 
 <div class="pub-list">
 
+  <article class="pub-item">
+    <h3 class="pub-title">
+      Producing the GeV Galactic Center Excess via Cosmic Ray-Dark Matter Scattering
+    </h3>
+    <p class="pub-authors">
+      Bhaskar Dutta, <strong>Debopam Goswami</strong>, Jason Kumar, Mudit Rai, Deepak Sathyan
+    </p>
+    <div class="pub-links">
+      <button class="pub-tag pub-abstract-toggle" data-target="abs-msim">
+      Abstract
+      </button>
+      <a class="pub-tag" href="https://arxiv.org/abs/2605.08010">arXiv</a>
+      
+  </div>
+
+  <!-- hidden abstract -->
+  <div id="abs-msim" class="pub-abstract">
+    In this work, we propose a novel mechanism for generating gamma rays from the Galactic Center via scattering of cosmic-ray protons off dark matter in the Milky Way halo, in contrast to conventional explanations based on dark matter annihilation. We present two examples of this framework that produce an observable photon signal. In the inelastic dark matter model, cosmic rays up-scatter a lighter dark matter particle, with the subsequent decay of the heavier particle yielding two photons. In the elastic dark matter model, an energetic photon is directly produced in the final state of a 2-to-3 scattering process. We show that, for a range of viable model parameters, this framework provides a fit to the observed Galactic Center gamma-ray excess spectrum comparable to those obtained from dark matter annihilation and millisecond pulsar models. Our results open a new avenue for interpreting gamma-ray observations of the Galactic Center.
+  </div>
+  </article>
+  
 
   <article class="pub-item">
     <h3 class="pub-title">
@@ -186,17 +207,6 @@ hide_title: true
 
 
 <div class="pub-list">
-
-
-  <article class="pub-item">
-    <h3 class="pub-title">
-      Explanation of Galactic Center GeV Excess via Cosmic Ray-Dark Matter Scattering
-    </h3>
-    <p class="pub-authors">
-      Bhaskar Dutta, <strong>Debopam Goswami</strong>, Jason Kumar, Mudit Rai, Deepak Sathyan, 
-    </p>
-    
-  </article>
 
   <article class="pub-item">
     <h3 class="pub-title">
