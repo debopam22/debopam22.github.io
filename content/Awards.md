@@ -3,7 +3,7 @@
   <ol class="awards-list">
     <li>
       <strong>Graduate Student Travel Grant (2026) — Texas A&M University</strong><br>
-      Awarded <strong>twice</strong> for participation in international conferences, recognizing 
+      Awarded for participation in international conferences, recognizing 
       <strong>exceptional academic achievement and research contributions</strong>.
       <a href="https://grad.tamu.edu/funding-opportunities-for-graduate-students/graduate-student-travel-awards" target="_blank">[Link]</a>
     </li>
