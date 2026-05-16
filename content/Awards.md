@@ -2,8 +2,19 @@
 
   <ol class="awards-list">
     <li>
+      <strong>Graduate Student Travel Grant (2026) — Texas A&M University</strong><br>
+      Awarded <strong>twice</strong> for participation in international conferences, recognizing 
+      <strong>exceptional academic achievement and research contributions</strong>.
+      <a href="https://grad.tamu.edu/funding-opportunities-for-graduate-students/graduate-student-travel-awards" target="_blank">[Link]</a>
+    </li>
+    <li>
+      <strong>Phenomenology 2026 Symposium Travel Award (2026) — University of Pittsburgh</strong><br>
+      Awarded the NSF and DOE-supported Phenomenology 2026 Symposium Travel Award by the University of Pittsburgh for academic merit.
+      <a href="https://indico.global/event/16413/" target="_blank">[Link]</a>
+    </li>
+    <li>
       <strong>Graduate Student Travel Grant (2024) — Texas A&M University</strong><br>
-      Awarded twice for participation in international conferences, recognizing 
+      Awarded <strong>twice</strong> for participation in international conferences, recognizing 
       <strong>exceptional academic achievement and research contributions</strong>.
       <a href="https://grad.tamu.edu/funding-opportunities-for-graduate-students/graduate-student-travel-awards" target="_blank">[Link]</a>
     </li>
