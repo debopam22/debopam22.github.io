@@ -33,6 +33,10 @@
   <ol class="conference-list">
     <li>
       <strong>The Mitchell Conference on Collider, Dark Matter, & Neutrino Physics</strong>, 
+      <em>Texas A&M University (TAMU)</em> | May 2026 <a href="https://indico.cern.ch/event/1643888/" target="_blank">[Link]</a>
+    </li>
+    <li>
+      <strong>The Mitchell Conference on Collider, Dark Matter, & Neutrino Physics</strong>, 
       <em>Texas A&M University (TAMU)</em> | May 2025 <a href="https://indico.cern.ch/event/1488822/" target="_blank">[Link]</a>
     </li>
     <li>
