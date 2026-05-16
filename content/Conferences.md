@@ -3,6 +3,10 @@
   <h2>Talks & Presentations</h2>
   <ol class="talks-list">
     <li>
+      <strong>Phenomenology Symposium</strong>, <em>University of Pittsburgh</em> | May 2026<br>
+      Talk: Producing the GeV Galactic Center Excess via Cosmic Ray-Dark Matter Scattering. <a href="https://indico.global/event/16413/contributions/153909/" target="_blank">[Link]</a>
+    </li>
+    <li>
       <strong>PROSPECT Experiment</strong> (Online) | Jul 2025<br>
       Talk: Probes of BSM Models in PROSPECT Experiment. <a href="https://prospect.yale.edu/" target="_blank">[Link]</a>
     </li>
