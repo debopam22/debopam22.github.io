@@ -103,7 +103,7 @@ hide_title: true
       <em>Journal of High Energy Physics</em>, 2026
     </p>
     <div class="pub-links">
-      <button class="pub-tag pub-abstract-toggle" data-target="abs-msim">
+      <button class="pub-tag pub-abstract-toggle" data-target="abs-mono">
       Abstract
       </button>
       <a class="pub-tag" href="https://doi.org/10.1007/JHEP02(2026)142">DOI</a>
@@ -112,7 +112,7 @@ hide_title: true
   </div>
 
   <!-- hidden abstract -->
-  <div id="abs-msim" class="pub-abstract">
+  <div id="abs-mono" class="pub-abstract">
     In this work, we investigate monophoton signatures arising from dark matter via a 2->3 scattering process that is mediated by a virtual scalar and a Standard Model photon. Since the final-state photon carries a large fraction of the initial dark matter's energy, this process offers a compelling handle for probing scalar portal dark matter scenarios. Their distinctive energy, angular, and timing distributions allow for effective separation of signal from neutrino-induced backgrounds. We analyze several models featuring different couplings to the scalar mediator, with the scalar photon coupling serving as the common detection channel. To distinguish between the models, we further examined their distinct spatial distributions. We considered the flux of dark matter produced both at the target and absorber of neutrino facilities such as the BNB, NuMI, and LBNF, and investigated the sensitivities at the ongoing SBND, ICARUS-NuMI, and future DUNE ND detectors. We further investigated the differences in the DM fluxes arising from various production mechanisms, as well as the distinctions between the target and absorber contributions. Our results demonstrate that the sensitivities at the considered experiments, especially DUNE ND, can place significantly improved constraints on viable parameter space in various scenarios.
   </div>
   </article>
