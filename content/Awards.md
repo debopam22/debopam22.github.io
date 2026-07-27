@@ -2,6 +2,11 @@
 
   <ol class="awards-list">
     <li>
+      <strong>Richard Arnowitt Award Endowment (2026) — Department of Physics and Astronomy, Texas A&M University</strong><br>
+      Awarded for <strong>research accomplishments in theoretical particle physics</strong>.
+      <a href="https://artsci.tamu.edu/physics-astronomy/about/giving.html" target="_blank">[Link]</a>
+    </li>
+    <li>
       <strong>Graduate Student Travel Grant (2026) — Texas A&M University</strong><br>
       Awarded for participation in international conferences, recognizing 
       <strong>exceptional academic achievement and research contributions</strong>.
