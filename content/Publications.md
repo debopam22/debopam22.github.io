@@ -18,6 +18,9 @@ hide_title: true
     <p class="pub-authors">
       Bhaskar Dutta, <strong>Debopam Goswami</strong>, Jason Kumar, Mudit Rai, Deepak Sathyan
     </p>
+    <p class="pub-venue">
+      <em>Submitted to Physical Review Letters</em>, 2026
+    </p>
     <div class="pub-links">
       <button class="pub-tag pub-abstract-toggle" data-target="abs-msim">
       Abstract
@@ -39,6 +42,9 @@ hide_title: true
     </h3>
     <p class="pub-authors">
       Bhaskar Dutta, <strong>Debopam Goswami</strong>, Aparajitha Karthikeyan, Vishvas Pandey, Zahra Tabrizi, Richard George Van de Water 
+    </p>
+    <p class="pub-venue">
+      <em>Submitted to Physical Review D</em>, 2026
     </p>
     <div class="pub-links">
       <button class="pub-tag pub-abstract-toggle" data-target="abs-msim">
@@ -214,6 +220,26 @@ hide_title: true
     </h3>
     <p class="pub-authors">
       Christopher Cappiello, P.S. Bhupal Dev, James B. Dent, Bhaskar Dutta, <strong>Debopam Goswami</strong>, Aparajitha Karthikeyan
+    </p>
+    
+  </article>
+
+  <article class="pub-item">
+    <h3 class="pub-title">
+      Tau DIPP at DUNE ND
+    </h3>
+    <p class="pub-authors">
+      P.S. Bhupal Dev, Bhaskar Dutta, <strong>Debopam Goswami</strong>, Aparajitha Karthikeyan, Doojin Kim, Masoom Singh
+    </p>
+    
+  </article>
+
+  <article class="pub-item">
+    <h3 class="pub-title">
+      Simulation-Based Inference for sub-GeV Dark Matter Searches at SBND
+    </h3>
+    <p class="pub-authors">
+      Bhaskar Dutta, <strong>Debopam Goswami</strong>, Aparajitha Karthikeyan, Kevin J. Kelly, Austin Schneider, Tao Zhou
     </p>
     
   </article>
