@@ -4,7 +4,7 @@
     <li>
       <strong>Universities Research Association’s Visiting Scholars Program (URA VSP), Fall 2026 — Fermilab</strong><br>
       Selected to conduct research at Fermilab through the Spring 2027.
-      <a href="[https://artsci.tamu.edu/physics-astronomy/about/giving.html]" target="_blank">[Link]</a>
+      <a href="https://ura-hq.org/high-energy-physics-user-community/ura-visiting-scholars-program/vsp-awardees/" target="_blank">[Link]</a>
     </li>
     <li>
       <strong>Richard Arnowitt Award Endowment (2026) — Department of Physics and Astronomy, Texas A&M University</strong><br>
