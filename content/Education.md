@@ -17,7 +17,7 @@
   </div>
 
   <div class="education-item">
-    <h3>Indian Institute of Technology (IIT) Kanpur,</h3> India
+    <h3><strong>Indian Institute of Technology (IIT) Kanpur,</strong> India</h3>
     <p><strong>Master of Science (M.Sc.) in Physics</strong> | July 2019 – May 2021</p>
     <p>Advisor: Prof. Debtosh Chowdhury | CGPA: 9.3/10.0 | <strong>Rank: 1</strong></p>
     <p>Thesis: <em>Dark Matter Genesis in the Early Universe</em></p>
@@ -26,7 +26,7 @@
   <div class="education-item">
     <h3>University of Calcutta, India</h3>
     <p><strong>Bachelor of Science (B.Sc.) in Physics</strong> | July 2016 – May 2019</p>
-    <p>First Class with Distinction | Aggregate: 78.5% | First Class with Distinction <h3>(Highest Honor)</h3></p>
+    <p>First Class with Distinction | Aggregate: 78.5% | First Class with Distinction <strong>(Highest Honor)</strong></p>
   </div>
 
 </div>
