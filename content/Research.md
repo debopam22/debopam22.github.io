@@ -26,7 +26,7 @@ hide_title: true
 <span style="font-size: 0.9em;">More broadly, I am deeply interested in leveraging artificial intelligence to automate modeling, accelerate simulations, and enhance scientific discovery in particle physics and related quantitative disciplines.</span>  
 
 
-<h3>Collaborators</h3>
+<!--<h3>Collaborators</h3>
 
 <span style="font-size: 0.9em;">(Alphabetically ordered by the first letter of the first name)</span> 
 
@@ -60,7 +60,7 @@ hide_title: true
   <li>Vishvas Pandey (Neutrino Division of the Fermi National Accelerator Laboratory)</li>
   <li>Wei-Chih Huang (Mitchell Institute for Fundamental Physics & Astronomy, Texas A&M University)</li>
   <li>Zahra Tabrizi (Theoretical Physics Department, CERN & Department of Physics and Astronomy, University of Pittsburgh)</li>
-</ul>
+</ul>-->
 
 
 
