@@ -3,6 +3,26 @@
   <h2>Talks & Presentations</h2>
   <ol class="talks-list">
     <li>
+      <strong>Invited Seminar Talk</strong>, <em>SLAC National Accelerator Laboratory</em> | October 2026<br>
+      Talk: Producing the GeV Galactic Center Excess via Cosmic Ray-Dark Matter Scattering.
+    </li>
+    <li>
+      <strong>Invited Seminar Talk</strong>, <em>University of California, Santa Cruz</em> | October 2026<br>
+      Talk: Producing the GeV Galactic Center Excess via Cosmic Ray-Dark Matter Scattering.
+    </li>
+    <li>
+      <strong>Theoretical Astroparticle and Cosmology Symposium in Texas</strong>, <em>Texas A\&M University</em> | October 2026<br>
+      Talk: Producing the GeV Galactic Center Excess via Cosmic Ray-Dark Matter Scattering. <a href="https://indico.global/event/16413/contributions/153909/" target="_blank">[Link]</a>
+    </li>
+    <li>
+      <strong>Invited Seminar Talk</strong>, <em>Washington University in St. Louis</em> | September 2026<br>
+      Talk: Producing the GeV Galactic Center Excess via Cosmic Ray-Dark Matter Scattering.
+    </li>
+    <li>
+      <strong>Theoretical Advanced Study Institute (TASI 2026)</strong>, <em>University of Colorado, Boulder</em> | June 2026<br>
+      Talk: Explanation of Galactic Center GeV Excess via Cosmic Ray-Dark Matter Scattering. <a href="https://indico.global/event/16413/contributions/153909/" target="_blank">[Link]</a>
+    </li>
+    <li>
       <strong>Phenomenology Symposium</strong>, <em>University of Pittsburgh</em> | May 2026<br>
       Talk: Producing the GeV Galactic Center Excess via Cosmic Ray-Dark Matter Scattering. <a href="https://indico.global/event/16413/contributions/153909/" target="_blank">[Link]</a>
     </li>
