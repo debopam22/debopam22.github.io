@@ -12,7 +12,7 @@
     </li>
     <li>
       <strong>Theoretical Astroparticle and Cosmology Symposium in Texas</strong>, <em>Texas A&M University (TAMU)</em> | October 2026<br>
-      Talk: Producing the GeV Galactic Center Excess via Cosmic Ray-Dark Matter Scattering. <a href="https://indico.global/event/16413/contributions/153909/" target="_blank">[Link]</a>
+      Talk: Producing the GeV Galactic Center Excess via Cosmic Ray-Dark Matter Scattering. <a href="https://indico.global/event/18796/" target="_blank">[Link]</a>
     </li>
     <li>
       <strong>Invited Seminar Talk</strong>, <em>Washington University in St. Louis</em> | September 2026<br>
