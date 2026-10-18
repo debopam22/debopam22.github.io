@@ -12,6 +12,10 @@
       <a href="https://artsci.tamu.edu/physics-astronomy/about/giving.html" target="_blank">[Link]</a>
     </li>
     <li>
+      Selected to <strong>Theoretical Advanced Study Institute (TASI 2026)</strong>, University of Colorado Boulder, USA
+      <a href="https://artsci.tamu.edu/physics-astronomy/about/giving.html" target="_blank">[Link]</a>
+    </li>  
+    <li>
       <strong>Graduate Student Travel Grant (2026) — Texas A&M University</strong><br>
       Awarded for participation in international conferences, recognizing 
       exceptional academic achievement and research contributions.
