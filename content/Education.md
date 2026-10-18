@@ -5,7 +5,7 @@
   <div class="education-item">
     <h3><strong>Texas A&amp;M University (TAMU)</strong>, College Station, TX, USA</h3>
     <p><strong>Doctor of Philosophy (Ph.D.) in Physics</strong> | Aug 2021 – Aug 2027 (Expected)</p>
-    <p>Advisor: Prof. Bhaskar Dutta | <strong>GPA: 4.0/4.0<strong></p>
+    <p>Advisor: Prof. Bhaskar Dutta | <strong>GPA: 4.0/4.0</strong></p>
     <p>Thesis: <em>Multi-Messenger Probes of Dark Matter</em></p>
     <p>Activities and Societies: 
       <ul>
