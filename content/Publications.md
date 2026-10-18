@@ -73,7 +73,7 @@ hide_title: true
       Bhaskar Dutta, <strong>Debopam Goswami</strong>, Baishan Hu, Wei-Chih Huang, Vishvas Pandey 
     </p>
     <p class="pub-venue">
-      <em>Submitted to Physical Review Letters</em>, 2026
+      <em>Accepted in Physical Review Letters</em>, 2026
     </p>
     <div class="pub-links">
       <button class="pub-tag pub-abstract-toggle" data-target="abs-swlb">
@@ -216,7 +216,7 @@ hide_title: true
 
   <article class="pub-item">
     <h3 class="pub-title">
-      Boosted dark matter from single, stacked blazars and cosmic protons
+      Boosted Dark Matter from Single and Stacked Blazars and Cosmic Rays
     </h3>
     <p class="pub-authors">
       Christopher Cappiello, P.S. Bhupal Dev, James B. Dent, Bhaskar Dutta, <strong>Debopam Goswami</strong>, Aparajitha Karthikeyan
@@ -226,7 +226,7 @@ hide_title: true
 
   <article class="pub-item">
     <h3 class="pub-title">
-      Tau DIPP at DUNE ND
+      Dark Matter Induced Di-Tau Production at the DUNE Near Detector
     </h3>
     <p class="pub-authors">
       P.S. Bhupal Dev, Bhaskar Dutta, <strong>Debopam Goswami</strong>, Aparajitha Karthikeyan, Doojin Kim, Masoom Singh
@@ -236,7 +236,7 @@ hide_title: true
 
   <article class="pub-item">
     <h3 class="pub-title">
-      Simulation-Based Inference for sub-GeV Dark Matter Searches at SBND
+      BSM Classification in Neutrino Facilities: Inelastic Dark Matter at Short-Baselines
     </h3>
     <p class="pub-authors">
       Bhaskar Dutta, <strong>Debopam Goswami</strong>, Aparajitha Karthikeyan, Kevin J. Kelly, Austin Schneider, Tao Zhou
