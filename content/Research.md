@@ -5,7 +5,9 @@ hide_title: true
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-<span style="font-size: 0.9em;">With over five years of experience in mathematical modeling, large-scale data analysis, and scientific computing, I combine theoretical insight with modern computational techniques to extract meaningful physics from complex datasets. My work bridges theoretical frameworks and experimental observables, enabling more sensitive searches for new physics.</span>  
+<span style="font-size: 0.9em;">My research sits at the intersection of particle and astroparticle phenomenology and machine learning, spanning both laboratory and astrophysical searches for sub-GeV dark matter (DM). In lab-based scenarios, I have investigated heavy neutral lepton production via beam-dump neutrino up-scattering and identified kinematic signatures to enhance signal-to-background discrimination. I have also analyzed monophoton final-state signatures from 2-to-3 DM-nucleus scattering at the Deep Underground Neutrino Experiment (DUNE) near detector (ND) and the Short-Baseline Neutrino program. Additionally, I used blip signatures and incorporated state-of-the-art ab initio nuclear calculations to enhance the Short-Baseline Near Detector (SBND) sensitivity. Astrophysically, I proposed cosmic-ray sub-GeV DM scattering as a potential explanation for the Galactic Center gamma-ray excess and also derived improved constraints on light-scalar mediator models from 2-to-3 and 2-to-4 scattering of cosmic and blazar-boosted DM across various experiments. My ongoing work includes di-tau signatures at the DUNE ND, simulation-based inference using XGBoost and multi-layer perceptron (MLP) classifiers for source discrimination and kinematic parameter inference at SBND, and a simultaneous explanation of the Galactic Center GeV and the 20 GeV gamma-ray excesses. While I remain deeply interested in continuing these searches for sub-GeV masses, I am also motivated to search a much broader range of possible DM masses using the diverse phenomenological tools I have developed. More broadly, I am interested in leveraging artificial intelligence to automate modeling, simulation, and scientific discovery in particle and astroparticle physics and related disciplines.</span>  
+
+<!--<span style="font-size: 0.9em;">With over five years of experience in mathematical modeling, large-scale data analysis, and scientific computing, I combine theoretical insight with modern computational techniques to extract meaningful physics from complex datasets. My work bridges theoretical frameworks and experimental observables, enabling more sensitive searches for new physics.</span>  
 
 <span style="font-size: 0.9em;">My research focuses on sub-GeV dark matter and neutrino phenomenology, spanning both laboratory-based and astrophysical searches.</span> 
 
@@ -23,7 +25,7 @@ hide_title: true
 <li>Computational optimization of simulations</li>
 </ul>
 
-<span style="font-size: 0.9em;">More broadly, I am deeply interested in leveraging artificial intelligence to automate modeling, accelerate simulations, and enhance scientific discovery in particle physics and related quantitative disciplines.</span>  
+<span style="font-size: 0.9em;">More broadly, I am deeply interested in leveraging artificial intelligence to automate modeling, accelerate simulations, and enhance scientific discovery in particle physics and related quantitative disciplines.</span>-->  
 
 
 <!--<h3>Collaborators</h3>
