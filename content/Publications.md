@@ -5,7 +5,7 @@ hide_title: true
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-## Publications
+## PUBLICATIONS
 
 
 
@@ -175,7 +175,7 @@ hide_title: true
 
 
 
-## Proceedings & White Papers
+## PROCEEDINGS \& WHITE PAPERS
 
 
 <div class="pub-list">
@@ -209,7 +209,7 @@ hide_title: true
 
 
 
-## Soon to Appear...
+## MANUSCRIPTS IN PREPARATION
 
 
 <div class="pub-list">
