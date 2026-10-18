@@ -3,9 +3,10 @@
   <h2>Education</h2>
 
   <div class="education-item">
-    <h3>Texas A&amp;M University (TAMU), College Station, TX, USA</h3>
-    <p><strong>Doctor of Philosophy (Ph.D.) in Physics</strong> | Aug 2021 – Present</p>
-    <p>Advisor: Prof. Bhaskar Dutta | GPA: 4.0/4.0</p>
+    <h3>Texas A&amp;M University (TAMU)</h3>, College Station, TX, USA
+    <p><strong>Doctor of Philosophy (Ph.D.) in Physics</strong> | Aug 2021 – Aug 2027 (Expected)</p>
+    <p>Advisor: Prof. Bhaskar Dutta | <h3>GPA: 4.0/4.0</h3>h3></p>
+    <p>Thesis: <em>Multi-Messenger Probes of Dark Matter</em>em></p>
     <p>Activities and Societies: 
       <ul>
       <li><span style="font-size: 0.8em;"><a href="https://getinvolved.tamu.edu/org/badminton-club">Texas A&M Badminton Club</a></span></li>
@@ -16,16 +17,16 @@
   </div>
 
   <div class="education-item">
-    <h3>Indian Institute of Technology (IIT) Kanpur, India</h3>
+    <h3>Indian Institute of Technology (IIT) Kanpur,</h3> India
     <p><strong>Master of Science (M.Sc.) in Physics</strong> | July 2019 – May 2021</p>
-    <p>Thesis: <em>Dark Matter Genesis in the Early Universe</em></p>
     <p>Advisor: Prof. Debtosh Chowdhury | CGPA: 9.3/10.0 | <strong>Rank: 1</strong></p>
+    <p>Thesis: <em>Dark Matter Genesis in the Early Universe</em></p>
   </div>
 
   <div class="education-item">
     <h3>University of Calcutta, India</h3>
     <p><strong>Bachelor of Science (B.Sc.) in Physics</strong> | July 2016 – May 2019</p>
-    <p>First Class with Distinction | GPA: 4.0/4.0</p>
+    <p>First Class with Distinction | Aggregate: 78.5% | First Class with Distinction <h3>(Highest Honor)</h3></p>
   </div>
 
 </div>
